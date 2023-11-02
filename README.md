@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href= "https://github.com/kumara1917/stockmarketprediction">
+  <a href="https://github.com/kumara1917/stockmarketprediction">
     <img src="images/logo.jpg" alt="Logo" width="100" height="100">
   </a>
 
@@ -50,9 +50,7 @@ Our project employs a combination of Long Short-Term Memory (LSTM) neural networ
 <img src="images/screenshot.png" alt="screenshot" width="800" height="600">
 </div>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -60,6 +58,7 @@ Our project employs a combination of Long Short-Term Memory (LSTM) neural networ
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * Python
+* Jupyter Notebook
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,34 +72,30 @@ To get started with our stock prediction project, follow these steps:
 2. Install the required Python dependencies as specified in the README, and you're ready to begin exploring and utilizing the stock prediction model.
 ### Prerequisites
  Ensure you have Python 3.x installed and the necessary libraries, such as NumPy, Pandas, and TensorFlow, are set up according to the provided instructions in the README before running the stock prediction models.
-* pandas
-  ```sh
-  pip install pandas
-  ```
-* numpy
-    ```sh
-  pip install numpy
-  ```
-* matplotlib
-  ```sh
-  pip install matplotlib
-  ```
+*Install the requirements.txt file
+   ```sh
+   pip install -r requirements.txt
+   ```
+
 ### Installation
 
  Here's a self-contained installation guide for our app, eliminating the need for external dependencies or services.
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/kumara1917/stockmarketprediction.git
+   https://github.com/kumara1917/stockmarketprediction.git
    ```
 2. Navigate to the project directory:
    ```sh
    cd StockPrediction
    ```
-3. Run the Python File:
-   ```js
-   python Stockprediction.py
-   ```
+3. Run the Jupyter Notebook File (StockPrediction.ipynb).
+
+4.In your web browser, navigate to the notebook file and open it.
+
+5.Follow the instructions in the Jupyter Notebook to train the LSTM model, make predictions, and evaluate its performance.
+
+6.You can also visualize model predictions and explore usage examples within the Jupyter Notebook.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +103,6 @@ To get started with our stock prediction project, follow these steps:
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
 * Setup: Easily install the stock prediction system as per the provided instructions.
 * Training: Train the LSTM model with historical stock data for trend analysis.
 * Predictions: Utilize the model to make accurate stock price predictions.
@@ -138,7 +132,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/kumara1917/stockmarketprediction](https://github.com/kumara1917/stockmarketprediction)
+Project Link: [(https://github.com/kumara1917/stockmarketprediction)](https://github.com/kumara1917/stockmarketprediction)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,4 +150,5 @@ We would like to express our gratitude to the following resources and individual
 
 
 [Python-url]: https://www.python.org/
-
+kumaraguru readme.txt
+Displaying kumaraguru readme.txt.
